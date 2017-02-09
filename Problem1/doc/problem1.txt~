@@ -1,0 +1,7 @@
+
+Problem1.c contains a template for students to do a task of their lab.
+
+the main function is written they are required to implement the following functions.
+
+1)	int isBitSetInRange(unsigned char ch, int low, int hi)
+2)	void toBinary(unsigned int num, unsigned int base)
